@@ -1,5 +1,6 @@
 # Advanced Resume Tracking System
 
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -47,13 +48,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd your-repo
+    cd Adavanced-Resume-Tracking-System.git
     ```
 
 3. Install dependencies:
@@ -88,7 +89,7 @@ GenAI is integrated into the system to provide additional functionality. GenAI m
 
 ## Environment Variables
 
-- `VARIABLE_NAME`: Description of the variable.
+- `GOOGLE_API_KEY`: Description of the variable(Confidential).
 
 Add any additional environment variables and their descriptions as needed.
 
@@ -110,7 +111,7 @@ To see the magic of the Resume Tracking System, follow these steps:
 3. **Upload a Job Description (JD):**
    - Continue by finding the "Upload JD" button on the Streamlit interface.
    - Click the button, and another file upload dialog will appear.
-   - Choose a job description file, which can be either in PDF or text format.
+   - Choose a job description file, which should be text format.
 
 4. **See the Magic Happen:**
    - After uploading both files, look for a "Process and Analyze" button on the Streamlit interface.
