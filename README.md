@@ -20,7 +20,7 @@
 - [Large Language Models (LLM)](#large-language-models-llm)
 - [GenAI Integration](#genai-integration)
 - [Demo](#demo)
-- [Screenshots](#screenshots)
+- [Screenshots](#Screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
