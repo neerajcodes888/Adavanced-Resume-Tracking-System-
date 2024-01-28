@@ -92,13 +92,45 @@ GenAI is integrated into the system to provide additional functionality. GenAI m
 
 Add any additional environment variables and their descriptions as needed.
 
+
+
+## Demo
+
+To see the magic of the Resume Tracking System, follow these steps:
+
+1. **Access the Deployed Application:**
+   - Open your web browser.
+   - Navigate to the URL --> [Deployed Link](https://neerajcodes888-adavanced-resume-tracking-system--app-rpn8dd.streamlit.app/).
+
+2. **Upload a PDF Resume:**
+   - On the Streamlit web interface, look for the "Upload PDF" button.
+   - Click the button, and a file upload dialog will appear.
+   - Choose a resume in PDF format from your local machine.
+
+3. **Upload a Job Description (JD):**
+   - Continue by finding the "Upload JD" button on the Streamlit interface.
+   - Click the button, and another file upload dialog will appear.
+   - Choose a job description file, which can be either in PDF or text format.
+
+4. **See the Magic Happen:**
+   - After uploading both files, look for a "Process and Analyze" button on the Streamlit interface.
+   - Click this button to initiate the analysis.
+   - Witness the system's magic as it utilizes Large Language Models (LLM) and GenAI integration to parse and analyze the uploaded resume and job description.
+   - Explore the displayed results on the Streamlit interface, showcasing the advanced capabilities of the system.
+
+By following these steps, users will be able to experience the live demonstration of your Resume Tracking System directly on the Streamlit application. Make sure to include any specific instructions or guidance within the Streamlit interface for a seamless user experience.
+
+## Screenshots(Gif)
+
+
+
 ## Contributing
 
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache-2.0 license](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-?tab=Apache-2.0-1-ov-file).
 
 ## Acknowledgments
 
