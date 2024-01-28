@@ -44,8 +44,8 @@ uploaded_file=st.sidebar.file_uploader("Upload Your Resume",type="pdf",help="Ple
 submit = st.sidebar.button("Submit")
 
 
-
-st.header("Advanced Resume Tracking System")
+if uploaded_file is None:
+    st.header("Advanced Resume Tracking System")
 st.markdown("---")
 st.markdown("Welcome to the advanced resume tracking system where you can simply upload the job description and resume and can see matching , missing and recommendations for job.")
 st.markdown("Neeraj Kumar")
@@ -59,6 +59,7 @@ with col3:
 st.markdown("---")
 st.info('Resume Tracking - Making Job Applications Easier', icon=None)
 st.warning(' Upload  Resume in  .pdf format Only')
+
 if submit:
     if uploaded_file is not None:
         text=input_pdf_text(uploaded_file)
