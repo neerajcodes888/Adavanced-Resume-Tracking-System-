@@ -46,19 +46,20 @@ submit = st.sidebar.button("Submit")
 
 if uploaded_file is None:
     st.header("Advanced Resume Tracking System")
-st.markdown("---")
-st.markdown("Welcome to the advanced resume tracking system where you can simply upload the job description and resume and can see matching , missing and recommendations for job.")
-st.markdown("Neeraj Kumar")
-col1, col2, col3 = st.columns([1,1,1])
-with col1:
+    st.markdown("---")
+    st.markdown("Welcome to the advanced resume tracking system where you can simply upload the job description and resume and can see matching , missing and recommendations for job.")
+    st.markdown("Neeraj Kumar")
+    col1, col2, col3 = st.columns([1,1,1])
+    with col1:
         st.link_button("Linkdin", "https://www.linkedin.com/in/neeraj-kumar-9a75811a2")
-with col2:
+    with col2:
         st.link_button("Github", "https://github.com/neerajcodes888")
-with col3:
+    with col3:
         st.link_button("Kaggle", "https://www.kaggle.com/neerajdata")
-st.markdown("---")
-st.info('Resume Tracking - Making Job Applications Easier', icon=None)
-st.warning(' Upload  Resume in  .pdf format Only')
+    st.markdown("---")
+    st.info('Resume Tracking - Making Job Applications Easier', icon=None)
+    st.warning(' Upload  Resume in  .pdf format Only')
+
 
 if submit:
     if uploaded_file is not None:
