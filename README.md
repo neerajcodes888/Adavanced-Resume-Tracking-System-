@@ -127,7 +127,6 @@ By following these steps, users will be able to experience the live demonstratio
 
 ![ARTS](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-/assets/98253646/1ebb5e63-d4db-465f-b12e-1daf16e3e354)
 
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
