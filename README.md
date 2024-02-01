@@ -3,7 +3,7 @@
 ![ARTS](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-/assets/98253646/3daabeae-e7ae-4a43-b7a1-31da7f19438b)
 
 
-## Table of Contents
+## Table of Contents 📋
 
 - [Overview](#overview)
 - [Features](#features)
@@ -26,18 +26,18 @@
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
-## Overview
+## Overview 📜
 
 This project is an advanced Resume Tracking System implemented using Large Language Models (LLM) in Python and GenAI. The system is deployed on Streamlit for a user-friendly interface. The project includes an app (`app.py`), a `.env` file for environment variables, and a `requirements.txt` file listing dependencies.
 
-## Features
+## Features 📊
 
 - Advanced resume parsing using LLM
 - Streamlit-based user interface
 - GenAI integration for enhanced functionality
 - Easy deployment and setup
 
-## Prerequisites
+## Prerequisites ✒️
 
 Make sure you have the following installed:
 
@@ -45,7 +45,7 @@ Make sure you have the following installed:
 - Streamlit
 - Other dependencies listed in `requirements.txt`
 
-## Setup
+## Setup 💻
 
 1. Clone the repository:
 
@@ -81,15 +81,15 @@ Make sure you have the following installed:
 6. Open your browser and go to `http://localhost:8501` to access the Resume Tracking System.
 
 
-## Large Language Models (LLM)
+## Large Language Models (LLM) 📂
 
 This project utilizes Large Language Models, such as GPT-3.5, for advanced resume parsing. LLMs are powerful natural language processing models that can understand and generate human-like text. Ensure that you have access to the necessary LLM APIs and credentials.
 
-## GenAI Integration
+## GenAI Integration 🔌
 
 GenAI is integrated into the system to provide additional functionality. GenAI may include features like automated content generation, semantic understanding, or other AI capabilities. Please refer to the GenAI documentation for specific details and integration instructions.
 
-## Environment Variables
+## Environment Variables 📰
 
 - `GOOGLE_API_KEY`: Description of the variable(Confidential).
 
@@ -97,7 +97,7 @@ Add any additional environment variables and their descriptions as needed.
 
 
 
-## Demo
+## Demo  📷
 
 To see the magic of the Resume Tracking System, follow these steps:
 
@@ -123,24 +123,24 @@ To see the magic of the Resume Tracking System, follow these steps:
 
 By following these steps, users will be able to experience the live demonstration of your Resume Tracking System directly on the Streamlit application. Make sure to include any specific instructions or guidance within the Streamlit interface for a seamless user experience.
 
-## Screenshots(Gif)
+## Screenshots(Gif)  📺
 
 ![ARTS](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-/assets/98253646/1ebb5e63-d4db-465f-b12e-1daf16e3e354)
 
-## Contributing
+## Contributing  👯
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
+## License 📝
 
 This project is licensed under the [Apache-2.0 license](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-?tab=Apache-2.0-1-ov-file).
 
-## Acknowledgments
+## Acknowledgments 🙏
 
 - Special thanks to the developers and researchers at OpenAI for their contributions to Large Language Models.
 - Appreciation to the GenAI development team for their innovative work in the field of artificial intelligence.
 
-## Contact
+## Contact 📞
 
 For any inquiries or issues, please contact [💬](https://www.linkedin.com/in/neeraj-kumar-9a75811a2/).
 
