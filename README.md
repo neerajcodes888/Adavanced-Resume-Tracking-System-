@@ -65,14 +65,21 @@ Make sure you have the following installed:
     pip install -r requirements.txt
     ```
 
-4. Create a `.env` file and add the required environment variables:
+4. Create a `.env` file and 
 
     ```
     VARIABLE_NAME=value
     # Add other variables as needed
     ```
 
-5. Run the application:
+5. Add the required environment variables:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+
+6. Run the application:
 
     ```bash
     streamlit run app.py
