@@ -103,7 +103,7 @@ To see the magic of the Resume Tracking System, follow these steps:
 
 1. **Access the Deployed Application:**
    - Open your web browser.
-   - Navigate to the URL --> [Deployed Link](https://neerajcodes888-adavanced-resume-tracking-system--app-rpn8dd.streamlit.app/).
+   - Navigate to the URL --> [Deployed Link](https://advancedresumetracking.onrender.com/).
 
 2. **Upload a PDF Resume:**
    - On the Streamlit web interface, look for the "Upload PDF" button.
