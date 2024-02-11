@@ -68,7 +68,7 @@ Make sure you have the following installed:
 4. Create a `.env` file 
 
     ```
-    GOOGLE_API_KEY=Your Google API Key `(https://makersuite.google.com/app/apikey)`
+    GOOGLE_API_KEY=Your Google API Key  (https://makersuite.google.com/app/apikey)
     
     ```
 
