@@ -20,7 +20,7 @@
 - [Large Language Models (LLM)](#large-language-models-llm)
 - [GenAI Integration](#genai-integration)
 - [Demo](#demo)
-- [Screenshots](#Screenshots)
+- [Video Demo](#VDemo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -130,7 +130,7 @@ To see the magic of the Resume Tracking System, follow these steps:
 
 By following these steps, users will be able to experience the live demonstration of your Resume Tracking System directly on the Streamlit application. Make sure to include any specific instructions or guidance within the Streamlit interface for a seamless user experience.
 
-## Screenshots(Gif)  📺
+## VDemo  📺
 
 ![ARTS](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-/assets/98253646/1ebb5e63-d4db-465f-b12e-1daf16e3e354)
 
