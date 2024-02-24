@@ -1,6 +1,6 @@
 # Advanced Resume Tracking System
 
-![ARTS](https://github.com/neerajcodes888/Adavanced-Resume-Tracking-System-/assets/98253646/3daabeae-e7ae-4a43-b7a1-31da7f19438b)
+![Adavanced-Resume-Tracking-System-](https://socialify.git.ci/neerajcodes888/Adavanced-Resume-Tracking-System-/image?description=1&descriptionEditable=%F0%9F%9A%80%20An%20advanced%20Resume%20Tracking%20System%20leveraging%20Large%20Language%20Models%20(LLM)%20and%20GenAI%20for%20streamlined%20resume%20parsing%20and%20analysis.&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
 
 
 ## Table of Contents 📋
